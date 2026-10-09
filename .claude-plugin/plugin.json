@@ -1,0 +1,9 @@
+{
+  "name": "permitsnag",
+  "displayName": "PermitSnag",
+  "version": "1.0.0",
+  "description": "Answers US backcountry permit and campground questions from PermitSnag's stored records, with the age of each answer and the official booking link.",
+  "author": { "name": "4Whys LLC", "url": "https://permitsnag.com" },
+  "homepage": "https://permitsnag.com/connect",
+  "license": "MIT"
+}
