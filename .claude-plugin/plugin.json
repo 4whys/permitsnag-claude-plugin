@@ -1,8 +1,8 @@
 {
   "name": "permitsnag",
   "displayName": "PermitSnag",
-  "version": "1.0.0",
-  "description": "Answers US backcountry permit and campground questions from PermitSnag's stored records, with the age of each answer and the official booking link.",
+  "version": "1.1.0",
+  "description": "Answers backcountry permit and campground questions in the US, Canada, New Zealand and Australia from PermitSnag's stored records, and sets up opening alerts on your PermitSnag account.",
   "author": {
     "name": "4Whys LLC",
     "url": "https://permitsnag.com"
